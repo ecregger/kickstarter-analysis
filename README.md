@@ -14,7 +14,7 @@ The two takeaways from this portion of the analysis is:
 1. The most success occurs for a theater project in May and the upcoming summer months of June and July.
 2. Theater projects are more likely to fail in the fall and winter months. The failure count is steady through the summer months but the volume of projects seeking funding is much higher, so the rate of failure here is lower. 
 ### Analysis of Outcomes Based on Goals
-https://github.com/ecregger/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png
+![Outcomes Vs Launch](https://github.com/ecregger/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 if the funding goal is less than 5000, then the project is more likely to succeed. The bulk of the projects fall within this range and has a success rate of over 70%. Once we get above 15000 the analysis becomes more difficult because you simply don't have many observations to help draw a conclusion.
 
 ### Challenges and Difficulties Encountered
