@@ -9,7 +9,7 @@ This analysis will be used to determine if there is a correalation between the l
 ## Analysis and Challenges
 Using the kickstarter dataset I was able to quickly put together two pivot tables and pivot charts to perform a quick analysis. There is a clear correalation with timing and funding goals in regards to the success of a play or theater project. I personally did not come across a challenge, but I can see if someone is unfamiliar with pivot tables this could be a struggle. 
 ### Analysis of Outcomes Based on Launch Date
-https://github.com/ecregger/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png
+![Outcomes Vs Goals](https://github.com/ecregger/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 The two takeaways from this portion of the analysis is:
 1. The most success occurs for a theater project in May and the upcoming summer months of June and July.
 2. Theater projects are more likely to fail in the fall and winter months. The failure count is steady through the summer months but the volume of projects seeking funding is much higher, so the rate of failure here is lower. 
